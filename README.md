@@ -31,7 +31,7 @@
 
 To install using a Zsh plugin manager, add the following to your .zshrc
 
-- [antidote]: `antidote bundle zshzoo/macos`
+- [antidote]: `antidote install zshzoo/macos`
 - [zcomet]: `zcomet load zshzoo/macos`
 - [zgenom]: `zgenom load zshzoo/macos`
 - [znap]: `znap source zshzoo/macos`

@@ -1,3 +1,5 @@
+#!/bin/zsh
+##? pfs - Print the current Finder selection.
 osascript 2>&1 <<EOF
   tell application "Finder" to set the_selection to selection
   if the_selection is not {}

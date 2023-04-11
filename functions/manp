@@ -1,3 +1,4 @@
+#!/bin/zsh
 local page
 if (( $# > 0 )); then
   for page in "$@"; do
